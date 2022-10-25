@@ -1,0 +1,14 @@
+JUMPER PROGRAM IDEAS
+create while loop to hold functions until word is guessed or amount of allowable incorrect guesses is breached.
+
+set variable to house a word:
+- accept different lengths
+- accept word into an array, with a different index for each letter.
+
+create input for guessing indexes of word's array.
+
+create action for incorrect guesses.
+create action for correct guesses.
+
+Strings in C# can be treated as arrays
+Console.WriteLine(secretWord[0]);
